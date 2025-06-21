@@ -161,7 +161,7 @@ function Sidebar({
           TaskPilot
         </div>
         <nav className="px-4 py-2 space-y-2 ">
-          <div className="overflow-y-auto" style={{ height: "46vh" }}>
+          <div className="overflow-y-auto" style={{ height: "42vh" }}>
             <div className="relative">
               {lists.map((item, index) => (
                 <div
